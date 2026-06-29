@@ -116,6 +116,4 @@ END
 | Field | Details |
 |-------|---------|
 | Name | Noreen Jahan |
-| Roll No | 24-Arid-1068 |
-| Class | BSSE-4A |
 | Subject | Assembly Language Programming |
